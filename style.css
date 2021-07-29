@@ -1,1 +1,21 @@
+body{
+   font-family: 'Roboto', sans-serif;}
+
+.bg-honda-header-info{
+   background-color: #264653;
+}
+.header-btn-primary{
+   background-color:#E76F51 ;
+}
+
+/* collections styles  */
+
+.collection-text-color,.happy-clients-text{
+   color: #E76F51;
+}
+.collections-image img{
+      -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+      filter: grayscale(100%);
+}
+
 
